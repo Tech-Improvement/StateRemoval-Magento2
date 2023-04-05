@@ -1,1 +1,1 @@
-# HideState-Magento2
+# StateRemoval-Magento2
