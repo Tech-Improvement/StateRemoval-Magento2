@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "N/A",
   "type": "magento2-module",
-  "minimum-stability": "stable",
-  "prefer-stable": true,
   "require": {
     "magento/framework": "*"
   },
   "license": [
-    "proprietary"
+    "Open Software License (OSL)"
   ],
   "autoload": {
     "files": [
